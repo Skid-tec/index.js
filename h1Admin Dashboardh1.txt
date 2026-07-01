@@ -1,0 +1,10 @@
+<h1>Admin Dashboard</h1>
+
+<ul>
+
+<li>View Bookings</li>
+<li>Manage Blog</li>
+<li>Customer Messages</li>
+<li>Payments</li>
+
+</ul>

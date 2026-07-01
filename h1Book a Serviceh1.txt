@@ -1,0 +1,21 @@
+<h1>Book a Service</h1>
+
+<form>
+
+<input placeholder="Name">
+
+<input placeholder="Email">
+
+<input type="date">
+
+<select>
+
+<option>Website Development</option>
+<option>IT Support</option>
+<option>Software Development</option>
+
+</select>
+
+<button>Book Appointment</button>
+
+</form>

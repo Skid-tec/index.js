@@ -1,0 +1,20 @@
+darlchyke-tech-solutions
+
+Inside it create:
+
+darlchyke-tech-solutions
+│
+├── index.html
+├── blog.html
+├── booking.html
+├── login.html
+├── dashboard.html
+│
+├── css
+│   └── style.css
+│
+├── js
+│   ├── app.js
+│   └── darkmode.js
+│
+└── images
